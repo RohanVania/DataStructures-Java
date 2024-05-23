@@ -5,7 +5,7 @@ import java.util.Arrays;
 /*
  * Problem 1: Remove Duplicates from Array in O(1) space 
  * Problem 2: Left Rotate Array by One place
- * Problem 3: Linear Search Find an element in array the array can be in any order
+ * Problem 3: Linear Search Find an element in array the array can be in any order, array can be sorted or unsorted
  * 
  */
 
