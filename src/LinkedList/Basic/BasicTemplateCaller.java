@@ -5,6 +5,7 @@ public class BasicTemplateCaller {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
+
 		LinkedList l1=new LinkedList();
 		Node head=l1.createNode(10);
 		Node n1=l1.createNode(12);		
@@ -16,6 +17,8 @@ public class BasicTemplateCaller {
 		n2.next=n3;
 		
 		l1.traversal(head);
+		
+		
 		
 	}
 
