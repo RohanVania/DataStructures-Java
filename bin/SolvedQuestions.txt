@@ -1,0 +1,9 @@
+ 
+ 
+ All the Solved Question and Link
+ 
+ 1. LeetCode 27: Remove Element 
+    https://leetcode.com/problems/remove-element/?envType=study-plan-v2&envId=top-interview-150
+ 
+ 2.Leetcode 88: Merge Sorted Array In-Place														(*)
+   https://leetcode.com/problems/merge-sorted-array/?envType=study-plan-v2&envId=top-interview-150
